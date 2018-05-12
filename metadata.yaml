@@ -1,0 +1,31 @@
+_repo: Germany-s-Dishonoured-ArmyAdditional-records-of-German-atrocities-in-France_46293
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46293-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Morgan, J. H. (John Hartman)
+    aliases:
+    - Morgan, Prof. J.H.
+    - Morgan, John H. (John Hartman)
+    - Morgan, John Hartman
+    birthdate: 1876
+    deathdate: 1955
+    gutenberg_agent_id: '7735'
+    url: http://www.gutenberg.org/2009/agents/7735
+description: ''
+gutenberg_issued: '2014-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46293'
+  lccn: '16004742'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Atrocities'
+- !lcc 'D501'
+title: 'Germany''s Dishonoured Army: Additional records of German atrocities in France'
+url: http://www.gutenberg.org/ebooks/46293
